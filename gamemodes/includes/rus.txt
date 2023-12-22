@@ -1,0 +1,16 @@
+D:\Project SA-MP Mobile V1\Project SA-MP Mobile V1\pawno\include\YSI\y_utils.inc(334) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "string" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+D:\Project SA-MP Mobile V1\Project SA-MP Mobile V1\pawno\include\YSI\y_utils.inc(488) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "string" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+D:\Project SA-MP Mobile V1\Project SA-MP Mobile V1\pawno\include\YSI\y_utils.inc(520) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "string" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+D:\Project SA-MP Mobile V1\Project SA-MP Mobile V1\pawno\include\YSI\y_utils.inc(538) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "string" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+D:\Project SA-MP Mobile V1\Project SA-MP Mobile V1\gamemodes\includes\Taixiu.pwn(94) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "PlayerInfo"
+D:\Project SA-MP Mobile V1\Project SA-MP Mobile V1\gamemodes\includes\Taixiu.pwn(94) : ïðåäóïðåæäåíèå 215: âûðàæåíèå íå èìååò ýôôåêòà
+D:\Project SA-MP Mobile V1\Project SA-MP Mobile V1\gamemodes\includes\Taixiu.pwn(94) : îøèáêà 001: îæèäàëñÿ òîêåí ";", íî íàéäåí "]"
+D:\Project SA-MP Mobile V1\Project SA-MP Mobile V1\gamemodes\includes\Taixiu.pwn(94) : îøèáêà 029: íåïðàâèëüíîå âûðàæåíèå, ïðèíÿò íîëü
+D:\Project SA-MP Mobile V1\Project SA-MP Mobile V1\gamemodes\includes\Taixiu.pwn(94) : ôàòàëüíàÿ îøèáêà 107: ñëèøêîì ìíîãî îøèáîê íà îäíîé ñòðîêå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:4.
